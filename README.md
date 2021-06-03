@@ -1,7 +1,8 @@
 # house_price_prediction
 
-Análisis de mercado inmobiliario¶¶
-¶
+Análisis de mercado inmobiliario
+
+
 Podemos estimar el valor de una vivienda
 El trabajo consiste en desarrollar un algoritmo con el que podamos predecir si el valor de una propiedad segun una seria de variables caracteristicas de una vivienda bajo la implementacion de dos modelos de ML.
 
